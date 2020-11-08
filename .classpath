@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="pruebas"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/altamira-pom.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/fr.opensagres.xdocreport.itext.extension-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/model_Integration.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/org.apache.poi.xwpf.converter.core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/org.apache.poi.xwpf.converter.pdf-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/selenium-shutterbug-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/telefonica-automatizacion-android.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/Telefonica-Common-Utilities-Hibrido3.0_SE13_APP_6.1.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/testng-6.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/LibTelefonica/LibTelefonica/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
